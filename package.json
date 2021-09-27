@@ -1,0 +1,10 @@
+{
+  "name": "appointments",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "jest": "^27.2.2"
+  }
+}
